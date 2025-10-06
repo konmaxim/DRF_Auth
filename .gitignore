@@ -1,0 +1,3 @@
+.venv/
+DRFAuth/.env
+DRFAuth/DRFAuth/__pycache__
