@@ -6,6 +6,8 @@
  cd DRF_Auth
  <br>
 docker-compose up --build
+<br>
+Доступен на: <a href="http://localhost:8000">http://localhost:8000 </a>
 
 <h2>Из Python </h2>
 0) Создать таблицу в postgres DRF_AUTH_DB 

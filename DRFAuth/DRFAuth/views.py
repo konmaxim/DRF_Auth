@@ -98,7 +98,7 @@ class UserDetailView(APIView):
     Получение и обновление профиля авторизованного пользователя.
     PUT:
     - Обновить поля профиля:
-        - full_name: Полное имя (автоматически обновляет first_name и last_name)
+        - full_name: ФИО
         - email: Email пользователя
         - password: Новый пароль 
     """
